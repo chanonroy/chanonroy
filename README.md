@@ -1,4 +1,4 @@
-<img width="1023" alt="Screenshot 2021-04-16 at 10 00 18 am" src="https://user-images.githubusercontent.com/16366896/115000837-0d963780-9e9b-11eb-946c-15ee024180ab.png">
+<img width="895" alt="Screenshot 2021-04-16 at 10 05 07 am" src="https://user-images.githubusercontent.com/16366896/115001052-40403000-9e9b-11eb-8fc4-059cb5bc28c6.png">
 
 <!--
 **chanonroy/chanonroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
