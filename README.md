@@ -1,11 +1,9 @@
-<img width="350" align="right" alt="chanon" src="https://user-images.githubusercontent.com/16366896/152146028-667bbeab-a83a-436f-96f2-edb6113ed1e6.png">
-
 ### Hi there, I'm Chanon
 
 - 🇬🇧 I'm currently working out of London, UK
 - ⭐ I'm focused on the Javascript and GraphQL ecosystem
-- 🤖 I'm also interested in hobbyist machine learning projects
-- 🎥 I'm fluent in film and tv references
+- 🤖 I'm interested in hobbyist machine learning projects
+- 🎥 I'm also fluent in film references
 
 <!--
 **chanonroy/chanonroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
