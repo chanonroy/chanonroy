@@ -1,4 +1,11 @@
-<img width="895" alt="Screenshot 2021-04-16 at 10 05 07 am" src="https://user-images.githubusercontent.com/16366896/115001052-40403000-9e9b-11eb-8fc4-059cb5bc28c6.png">
+<img width="350" align="right" alt="chanon" src="https://user-images.githubusercontent.com/16366896/152146028-667bbeab-a83a-436f-96f2-edb6113ed1e6.png">
+
+### Hi there, I'm Chanon
+
+- 🇬🇧 I'm currently working out of London, UK
+- ⭐ I'm focused on the Javascript and GraphQL ecosystem
+- 🤖 I'm also interested in hobbyist machine learning projects
+- 🎥 I'm fluent in film and tv references
 
 <!--
 **chanonroy/chanonroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
