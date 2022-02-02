@@ -1,7 +1,6 @@
-### Hi there, I'm Chanon
-
+- 👋 Hello, I'm <b>Chanon</b>
 - 🇬🇧 I'm currently working out of London, UK
-- ⭐ I'm focused on the Javascript and GraphQL ecosystem
+- 👀 I'm focused on the Javascript and GraphQL ecosystem
 - 🤖 I'm interested in hobbyist machine learning projects
 - 🎥 I'm also fluent in film references
 
